@@ -15,8 +15,8 @@ module.exports = {
   icon: `content/assets/sloth.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
-    disqusShortName: 'disqus_Fo7hFArZ2l', // Your disqus-short-name. check disqus.com.
-    utterances: 'hyunchan-jung/hyunchan-jung.github.io.comment', // Your repository for archive comment
+    disqusShortName: '', // Your disqus-short-name. check disqus.com.
+    utterances: 'hyunchan-jung/hyunchan-jung.github.io', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
